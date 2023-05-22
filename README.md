@@ -1,1 +1,1 @@
-0x00. C - Hello, World
+C- I am learning on how to debug code
